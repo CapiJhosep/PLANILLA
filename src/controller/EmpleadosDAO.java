@@ -7,7 +7,6 @@ public class EmpleadosDAO {
 
 	Db db = new Db( "planillas" );
 	
-	
 	public boolean Login(Empleado empleado) {
 		db.Sentencia( "" );
 		empleado.setRegistro( db.getRegistro() );
