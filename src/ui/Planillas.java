@@ -187,5 +187,4 @@ public class Planillas extends JFrame implements Runnable {
 		}
 	}
 	
-	
 }

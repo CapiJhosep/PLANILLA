@@ -2,6 +2,7 @@ package db;
 
 public class Db {
 
+	
 	public Db(String db) {
 	}
 

@@ -64,5 +64,4 @@ public class Empleado {
 		Passwordd = aRegistro[5];
 	}
 	
-	
 }
